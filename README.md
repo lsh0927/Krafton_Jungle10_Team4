@@ -12,6 +12,15 @@ https://www.youtube.com/watch?v=L-uchJcRnBQ&feature=youtu.be
 
 ---
 
+## 위키
+
+### Backend
+- [Backend Architecture Wiki](https://github.com/lsh0927/Krafton_Jungle10_Team4/wiki)
+
+
+---
+
+
 ## 주요 기능
 
 ### 에이전트 관리
@@ -105,9 +114,5 @@ projects/
 
 ---
 
-## 위키
 
-### Backend
-- [Backend Architecture Wiki](https://github.com/lsh0927/Krafton_Jungle10_Team4/wiki)
----
 
