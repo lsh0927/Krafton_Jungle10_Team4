@@ -105,10 +105,9 @@ projects/
 
 ---
 
-## 주요 문서
+## 위키
 
 ### Backend
-- [AWS 배포 종합 가이드](Backend/AWS_배포_종합_가이드.md)
 - [Backend Architecture Wiki](https://github.com/lsh0927/Krafton_Jungle10_Team4/wiki)
 ---
 
