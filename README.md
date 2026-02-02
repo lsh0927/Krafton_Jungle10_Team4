@@ -10,27 +10,17 @@ RAG(Retrieval-Augmented Generation) 기반의 AI Agent 생성 및 워크플로�
 
 https://www.youtube.com/watch?v=L-uchJcRnBQ&feature=youtu.be
 
-## 📋 목차
-
-- [주요 기능](#주요-기능)
-- [기술 스택](#기술-스택)
-- [프로젝트 구조](#프로젝트-구조)
-- [시작하기](#시작하기)
-- [개발 환경 설정](#개발-환경-설정)
-- [배포](#배포)
-- [문서](#문서)
-
 ---
 
-## ✨ 주요 기능
+## 주요 기능
 
-### 🤖 에이전트 관리
+### 에이전트 관리
 - **직관적인 봇 생성**: 4단계 마법사를 통한 쉬운 봇 생성
 - **문서 기반 지식**: PDF, DOCX, TXT 파일 업로드 및 벡터 검색
 - **실시간 채팅**: 웹 위젯을 통한 챗봇 대화
 - **배포 관리**: API 키 기반 배포 및 사용량 모니터링
 
-### 🔄 워크플로우 자동화
+### 워크플로우 자동화
 - **시각적 워크플로우 편집기**: 드래그 앤 드롭으로 복잡한 워크플로우 설계
 - **다양한 노드 타입**: LLM, 지식 검색, HTTP 요청, Slack 통합, 조건 분기 등
 - **실시간 실행**: 워크플로우 실행 상태 및 결과 추적
@@ -115,37 +105,10 @@ projects/
 
 ---
 
-## 📚 주요 문서
+## 주요 문서
 
 ### Backend
-- [배포 가이드](Backend/docs/deployment-guide.md)
-- [AWS 인프라 가이드](Backend/docs/aws_infrastructure_overview.md)
-- [워크플로우 V2 가이드](Backend/docs/workflow_v2_current_plan.md)
-- [마이그레이션 가이드](Backend/docs/MIGRATION_GUIDE.md)
-
-### Frontend
-- [프로젝트 요약](Frontend/dev_md/Form_PROJECT_SUMMARY.md)
-- [개발 프로세스](Frontend/dev_md/Form_WorkProcess.md)
-- [Git Flow 전략](Frontend/GitFlow.md)
-
+- [AWS 배포 종합 가이드](Backend/AWS_배포_종합_가이드.md)
+- [Backend Architecture Wiki](https://github.com/lsh0927/Krafton_Jungle10_Team4/wiki)
 ---
-
-##  배포
-
-### Backend (AWS ECS Fargate)
-
-자세한 배포 가이드는 [AWS 배포 종합 가이드](Backend/AWS_배포_종합_가이드.md)를 참고
-
-### Frontend (Vercel)
-
-
-
-## 📊 프로젝트 통계
-
-- **Backend**: ~15,000+ 라인 (Python)
-- **Frontend**: ~20,000+ 라인 (TypeScript/TSX)
-- **API 엔드포인트**: 50+ 개
-- **워크플로우 노드 타입**: 15+ 개
-- **데이터베이스 모델**: 15+ 개
-
 
